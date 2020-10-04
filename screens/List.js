@@ -7,7 +7,6 @@ import {
   FlatList,
   TouchableWithoutFeedback,
   TouchableOpacity,
-  Button,
 } from 'react-native';
 import { removeFavorite } from '../favoritesReducer';
 

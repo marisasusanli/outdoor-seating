@@ -5,9 +5,6 @@ import * as restoData from '../restos.json';
 import { ScrollView } from 'react-native-gesture-handler';
 
 export default class MainMap extends React.Component {
-  componentDidMount() {
-    // get map marker info from database?
-  }
   render() {
     let dataToMap = restoData.locations;
     return (
