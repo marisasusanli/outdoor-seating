@@ -1,0 +1,306 @@
+{
+  "locations": [
+    {
+      "properties": {
+        "id": 1,
+        "name": "Amber Steakhouse",
+        "address": "119 Nassau Ave, Brooklyn NY 11222",
+        "hours": "1PM-10PM",
+        "type": "restaurant",
+        "description": "dry-aged steaks",
+        "photoFilePath": "require('../images/IMG_5886.JPG')",
+        "phone": "(718) 389-3757",
+        "coordinates": {
+          "latitude": 40.72449,
+          "longitude": -73.9491
+        }
+      }
+    },
+    {
+      "properties": {
+        "id": 2,
+        "name": "Five Leaves",
+        "address": "18 Bedford Ave, Brooklyn NY 11222",
+        "hours": "10AM-10PM",
+        "type": "restaurant",
+        "description": "delicious brunch options",
+        "photoFilePath": "../images/IMG_9824.JPG",
+        "coordinates": {
+          "latitude": 40.72449,
+          "longitude": -73.95159
+        }
+      }
+    },
+    {
+      "properties": {
+        "id": 3,
+        "name": "Paulie Gee's Slice Shop",
+        "address": "110 Franklin St, Brooklyn NY 11222",
+        "hours": "12PM-10PM",
+        "type": "restaurant",
+        "description": "pizza cravings",
+        "photoFilePath": "../images/IMG_1671.JPG",
+        "coordinates": {
+          "latitude": 40.72836,
+          "longitude": -73.95708
+        }
+      }
+    },
+    {
+      "properties": {
+        "id": 4,
+        "name": "Karczma",
+        "address": "119 Nassau Ave, Brooklyn NY 11222",
+        "hours": "12PM-9:30PM",
+        "type": "restaurant",
+        "description": "polish classics",
+        "photoFilePath": "../images/IMG_7155.JPG",
+        "coordinates": {
+          "latitude": 40.72987,
+          "longitude": -73.9551
+        }
+      }
+    },
+    {
+      "properties": {
+        "id": 5,
+        "name": "Sakura 6",
+        "address": "837 Manhattan Ave, Brooklyn NY 11222",
+        "hours": "12PM-10:30PM",
+        "type": "restaurant",
+        "description": "serviceable sushi",
+        "photoFilePath": "../images/IMG_6889.JPG",
+        "coordinates": {
+          "latitude": 40.7287287,
+          "longitude": -73.9543231
+        }
+      }
+    },
+    {
+      "properties": {
+        "id": 6,
+        "name": "Brooklyn Safehouse",
+        "address": "120 Franklin St, Brooklyn NY 11222",
+        "hours": "4PM-4AM",
+        "type": "bar",
+        "description": "hanging with bikers",
+        "photoFilePath": "../images/IMG_9483.JPG",
+        "coordinates": {
+          "latitude": 40.7288735,
+          "longitude": -73.9594011
+        }
+      }
+    },
+    {
+      "properties": {
+        "id": 7,
+        "name": "The Pencil Factory",
+        "address": "142 Franklin St, Brooklyn NY 11222",
+        "hours": "2PM-11PM",
+        "type": "bar",
+        "description": "low key beers and cocktails",
+        "photoFilePath": "../images/IMG_8291.JPG",
+        "coordinates": {
+          "latitude": 40.7297855,
+          "longitude": -73.957371
+        }
+      }
+    },
+    {
+      "properties": {
+        "id": 8,
+        "name": "Mama Pho",
+        "address": "685 Manhattan Ave, Brooklyn NY 11222",
+        "hours": "10AM-9PM",
+        "type": "restaurant",
+        "description": "vietnamese pho and bahn mi",
+        "photoFilePath": "../images/IMG_5687.JPG",
+        "coordinates": {
+          "latitude": 40.724483,
+          "longitude": -73.9529636
+        }
+      }
+    },
+    {
+      "properties": {
+        "id": 9,
+        "name": "Bagel Point",
+        "address": "699 Manhattan Ave, Brooklyn NY 11222",
+        "hours": "6:30AM-9PM",
+        "type": "restaurant",
+        "description": "bagels and breakfast sandwiches",
+        "photoFilePath": "../images/IMG_0226.JPG",
+        "coordinates": {
+          "latitude": 40.7255173,
+          "longitude": -73.9541435
+        }
+      }
+    },
+    {
+      "properties": {
+        "id": 10,
+        "name": "Oxomoco",
+        "address": "128 Greenpoint Ave, Brooklyn NY 11222",
+        "hours": "12PM-3PM, 5:30PM-10PM",
+        "type": "restaurant",
+        "description": "tacos and cocktails",
+        "photoFilePath": "../images/IMG_0263.JPG",
+        "coordinates": {
+          "latitude": 40.7297226,
+          "longitude": -73.9562212
+        }
+      }
+    },
+
+    {
+      "properties": {
+        "id": 11,
+        "name": "Seven Seeds",
+        "address": "96 Wythe Ave, Brooklyn NY 11249",
+        "hours": "7AM-10PM",
+        "type": "restaurant",
+        "description": "mediterranean small plates",
+        "photoFilePath": "../images/IMG_0181.JPG",
+        "coordinates": {
+          "latitude": 40.7214444,
+          "longitude": -73.9589598
+        }
+      }
+    },
+    {
+      "properties": {
+        "id": 12,
+        "name": "Teddy's",
+        "address": "96 Berry St, Brooklyn NY 11249",
+        "hours": "3PM-10PM",
+        "type": "bar",
+        "description": "beer and football food",
+        "photoFilePath": "../images/IMG_6157.JPG",
+        "coordinates": {
+          "latitude": 40.7193524,
+          "longitude": -73.9597405
+        }
+      }
+    },
+    {
+      "properties": {
+        "id": 13,
+        "name": "Juliette",
+        "address": "135 North 5th St, Brooklyn NY 11249",
+        "hours": "12PM-10PM",
+        "type": "restaurant",
+        "description": "French bistro vibes",
+        "photoFilePath": "../images/IMG_2392.JPG",
+        "coordinates": {
+          "latitude": 40.716958,
+          "longitude": -73.959021
+        }
+      }
+    },
+    {
+      "properties": {
+        "id": 14,
+        "name": "Sweet Chick",
+        "address": "164 Bedford Ave, Brooklyn NY 11249",
+        "hours": "12PM-11PM",
+        "type": "restaurant",
+        "description": "fried chicken and waffles",
+        "photoFilePath": "../images/IMG_4521.JPG",
+        "coordinates": {
+          "latitude": 40.718329,
+          "longitude": -73.957304
+        }
+      }
+    },
+    {
+      "properties": {
+        "id": 15,
+        "name": "Fushimi",
+        "address": "475 Driggs Ave, Brooklyn NY 11211",
+        "hours": "11:30AM-11PM",
+        "type": "restaurant",
+        "description": "ladies night sushi specials",
+        "photoFilePath": "../images/IMG_6814.JPG",
+        "coordinates": {
+          "latitude": 40.718806,
+          "longitude": -73.954425
+        }
+      }
+    },
+    {
+      "properties": {
+        "id": 16,
+        "name": "Turkey's Nest",
+        "address": "94 Bedford Ave, Brooklyn NY 11249",
+        "hours": "1PM-11PM",
+        "type": "bar",
+        "description": "beer in a styrofoam cup",
+        "photoFilePath": "../images/IMG_6883.JPG",
+        "coordinates": {
+          "latitude": 40.7206,
+          "longitude": -73.955082
+        }
+      }
+    },
+    {
+      "properties": {
+        "id": 17,
+        "name": "Roebling Sports Club",
+        "address": "225 North 8th St, Brooklyn NY 11211",
+        "hours": "4PM-12AM",
+        "type": "bar",
+        "description": "beer and mozzarella sticks",
+        "photoFilePath": "../images/IMG_1513.JPG",
+        "coordinates": {
+          "latitude": 40.71697,
+          "longitude": -73.95453
+        }
+      }
+    },
+    {
+      "properties": {
+        "id": 18,
+        "name": "El Almacen",
+        "address": "557 Driggs Ave, Brooklyn NY 11211",
+        "hours": "5:00PM-11:00PM",
+        "type": "restaurant",
+        "description": "Argentinian specialties",
+        "photoFilePath": "../images/IMG_5922.JPG",
+        "coordinates": {
+          "latitude": 40.71685,
+          "longitude": -73.956508
+        }
+      }
+    },
+    {
+      "properties": {
+        "id": 19,
+        "name": "Egg Shop",
+        "address": "138 North 8th St, Brooklyn NY 11249",
+        "hours": "9:30AM-4:00PM",
+        "type": "restaurant",
+        "description": "creative egg dishes",
+        "photoFilePath": "../images/IMG_2069.JPG",
+        "coordinates": {
+          "latitude": 40.718848,
+          "longitude": -73.957987
+        }
+      }
+    },
+    {
+      "properties": {
+        "id": 20,
+        "name": "Casa Publica",
+        "address": "594 Union Ave, Brooklyn NY 11211",
+        "hours": "5:00PM-10:00PM",
+        "type": "restaurant",
+        "description": "upscale Mexican food",
+        "photoFilePath": "../images/IMG_2666.JPG",
+        "coordinates": {
+          "latitude": 40.718161,
+          "longitude": -73.952135
+        }
+      }
+    }
+  ]
+}
